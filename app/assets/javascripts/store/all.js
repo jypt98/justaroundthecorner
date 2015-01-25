@@ -11,3 +11,6 @@
 //= require store/spree_promo
 
 //= require_tree .
+//= require js/jquery.anythingslider
+//= require js/jquery.anythingslider.fx
+//= require js/jquery.anythingslider.video
